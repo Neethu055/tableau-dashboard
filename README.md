@@ -22,6 +22,9 @@ Overall Dashboard
 - `.twbx` Tableau packaged workbook
 - Dashboard screenshot
 
+ℹ️ Note
+This dashboard was created using Tableau. Due to Tableau Public upload limitations without Tableau Desktop, screenshots are provided for visualization.
+
 👩‍🎓 Author
 Neethu Mariyam Sajan  
 Graduate | Aspiring Data Analyst  
