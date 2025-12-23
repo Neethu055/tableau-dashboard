@@ -10,7 +10,7 @@ This project analyzes Olist e-commerce data using Tableau to identify sales tren
 
 📊 Dashboard Preview
 Overall Dashboard
-![Dashboard Overview]([tableau%20dashboard.jpeg)])
+![Dashboard Overview]([tableau_dashboard.jpeg)])
 
 🔍 Key Insights
 - Sales performance across product categories
